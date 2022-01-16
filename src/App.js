@@ -6,7 +6,7 @@ import Content from './Main/Content'
 function App() {
   return (
     <div className="App">
-      <Header />
+      <Header /><Header /><Header /><Header />
       <Content />
     </div>
   );
